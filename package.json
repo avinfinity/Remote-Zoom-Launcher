@@ -1,10 +1,10 @@
 {
-  "name": "your-project-name",
+  "name": "Zoom-Launcher",
   "version": "1.0.0",
-  "description": "Your project description",
-  "main": "src/server2.js",
+  "description": "Launches zoom meeting on remote computer",
+  "main": "src/server.js",
   "scripts": {
-    "start": "node ./src/server2.js"
+    "start": "node ./src/server.js"
   },
   "author": "Your Name",
   "license": "MIT",
